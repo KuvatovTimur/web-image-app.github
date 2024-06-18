@@ -1,0 +1,8 @@
+const API_TOKEN = '123456789:AASDASDASD'
+const API_BASE_URL='http://127.0.0.1:8000'
+const API_RECOGNITION_PREFIX = 'api/v1/face-recognition'
+const S3_KEY_ID='YCAJE4BHATHNaYAQdCQPu6ODW'
+const S3_ACCESS_KEY='YCMBPH9LjwBS_Wr8R-Sb9vGOkn5Qy-cJzBuXC-na'
+const S3_REGION_NAME='ru-central1'
+const S3_ENDPOINT='https://storage.yandexcloud.net'
+const S3_BASKET_NAME='face-recognition-images'
